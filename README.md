@@ -13,10 +13,6 @@
 
 <div align="center">
 
-[![Location](https://img.shields.io/badge/📍_Ubicación-Villavicencio,_Meta,_Colombia-blue?style=for-the-badge)](https://goo.gl/maps/colombia)
-[![Email](https://img.shields.io/badge/📧_Email-harold__reina75@hotmail.com-red?style=for-the-badge)](mailto:harold_reina75@hotmail.com)
-[![Phone](https://img.shields.io/badge/📱_Teléfono-+573205747074-green?style=for-the-badge)](tel:+573205747074)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Harol--Reina-black?style=for-the-badge&logo=github)](https://github.com/Harol-Reina)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harol_Alfonso_Reina_H.-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harol-alfonso-reina-herrera-53199b34)
 [![Twitter](https://img.shields.io/badge/Twitter-@HaroldR1975-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/HaroldR1975)
@@ -261,7 +257,6 @@ He trabajado con herramientas líderes como **Terraform**, **Ansible**, **Docker
 
 **¿Interesado en colaborar en proyectos DevOps o necesitas consultoría en infraestructura cloud?**
 
-[![Email](https://img.shields.io/badge/📧_Envíame_un_email-harold__reina75@hotmail.com-red?style=for-the-badge)](mailto:harold_reina75@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Conecta_en_LinkedIn-Harol_Alfonso_Reina_H.-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harol-alfonso-reina-herrera-53199b34)
 
 ---
