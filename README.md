@@ -1,4 +1,4 @@
-![https://github.com/Harol-Reina](./profile.png)
+![https://github.com/Harol-Reina](./profile.jpeg)
 
 
 <div align="center">
